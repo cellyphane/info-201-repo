@@ -1,2 +1,4 @@
 # info-201-repo
-first time using git and github
+This is my first time using git and github.
+
+I'm currently making edits using RStudio.
